@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HeartPortal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HeartPortal\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=level1
+comment1.target=HeartPortal(boolean)
+comment2.params=barbie\ ken
+comment2.target=void\ changelevel(Barbie,\ Ken)
+comment3.params=
+comment3.target=void\ startlevel2()
+comment4.params=
+comment4.target=void\ wingame()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
