@@ -1,0 +1,13 @@
+
+Porto|Portuguesa|0|0|0|0|0|0||Sérgio Conceição|45|liderança#|4-4-2/|99|Vítor|42|MEDIO|99
+Diogo Costa|25|GR|70|30
+Zaidu|22|DEFESA|74|30
+Pepe|39|DEFESA|78|70
+Marcano|31|DEFESA|81|34
+João Mário|26|DEFESA|72|43
+Antonio|27|MEDIO|56|34
+Daniel|29|MEDIO|82|34
+Joaquim|29|MEDIO|71|43
+Goncalo|31|MEDIO|78|23
+Evanilson|24|ATACANTE|92|32
+Taremi|28|ATACANTE|94|50

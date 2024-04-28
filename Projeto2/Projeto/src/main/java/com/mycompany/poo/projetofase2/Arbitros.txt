@@ -1,0 +1,8 @@
+
+Paulo|50|20
+Inacio|60|20
+Manuel|60|20
+Joao|60|20
+Matos|60|20
+Ferreira|60|20
+Helio|60|20

@@ -1,0 +1,13 @@
+
+Farense|Portuguesa||0|0|0|0|0|0||Mota|45|conhecedor#|5-3-2/|60|Mauricio|47|GR|57
+Ricardo Velho|28|GR|60|12
+João|23|DEFESA|65|12
+Tiago|24|DEFESA|70|12
+Djé|22|DEFESA|67|12
+Pedro|25|DEFESA|78|12
+Matheus|29|DEFESA|80|12
+Miguel|26|MEDIO|89|12
+Nico|23|MEDIO|62|12
+Diogo|27|MEDIO|78|12
+Ricardo|26|ATACANTE|72|12
+André|25|ATACANTE|89|12

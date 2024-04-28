@@ -1,0 +1,13 @@
+
+Benfica|Portuguesa|0|0|0|0|0|0||Schmidt|49|nutricao#|4-2-2/|99|Joao|49|GR|99
+Trubin|25|GR|50|70
+Rui|18|DEFESA|50|70
+Miguel|27|DEFESA|50|70
+Jurasek|23|DEFESA|50|70
+Ausrnes|24|MEDIO|50|70
+Florentino|25|MEDIO|50|70
+João|19|MEDIO|50|70
+Kokcu|29|MEDIO|50|99
+Di Maria|32|ATACANTE|50|70
+Rui|24|ATACANTE|50|54
+Artur|27|MEDIO|32|54

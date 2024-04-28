@@ -1,0 +1,13 @@
+
+Sporting|Portuguesa|0|0|0|0|0|0||Amorim|39|mestre tático#|4-3-3/|90|Alexandre|35|ATACANTE|84
+Pedro|25|GR|70|23
+João|23|DEFESA|67|23
+Miguel|26|DEFESA|80|32
+Coates|36|DEFESA|72|32
+Tiago|24|DEFESA|54|32
+Pedro|21|MEDIO|89|12
+André|25|MEDIO|85|53
+Ito|23|MEDIO|81|32
+Diogo|27|ATACANTE|90|32
+Catamo|24|ATACANTE|87|32
+Gyokeres|26|ATACANTE|97|23

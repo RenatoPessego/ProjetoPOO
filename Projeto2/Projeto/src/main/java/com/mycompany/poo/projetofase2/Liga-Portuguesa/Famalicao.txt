@@ -1,0 +1,13 @@
+
+Famalicão|Portuguesa|0|0|0|0|0|0||Francisco|46|liderança#|4-4-2/|12|Pedro|45|MEDIO|90
+Nikita|29|GR|50|20
+João|23|DEFESA|87|12
+Francisco Moura|26|DEFESA|90|12
+Cami|24|DEFESA|65|12
+Tiago|24|DEFESA|43|12
+Diogo|27|MEDIO|65|12
+Omar|21|MEDIO|91|12
+Gonçalo|38|MEDIO|76|12
+Pedro|25|ATACANTE|98|12
+André|25|ATACANTE|67|12
+Ricardo|26|ATACANTE|91|32

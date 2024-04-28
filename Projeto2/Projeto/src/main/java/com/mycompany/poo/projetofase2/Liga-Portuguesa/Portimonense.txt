@@ -1,0 +1,13 @@
+
+Portimonense|Portuguesa|0|0|0|0|0|0||Paulo Sérgio|46|nutricao#|5-4-1/|54|Paulo|32|MEDIO|76
+Nashimura|25|GR|50|3
+André|25|DEFESA|89|3
+Pedro|25|DEFESA|54|3
+Relvas|25|DEFESA|89|3
+Diogo|27|DEFESA|54|3
+João|23|DEFESA|90|3
+Tiago|24|MEDIO|72|3
+Miguel|26|MEDIO|87|3
+Zicky|23|MEDIO|75|3
+Pedro|21|MEDIO|83|3
+Ricardo|26|ATACANTE|79|3

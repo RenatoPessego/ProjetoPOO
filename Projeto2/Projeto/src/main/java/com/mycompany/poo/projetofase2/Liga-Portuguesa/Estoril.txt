@@ -1,0 +1,13 @@
+
+Estoril|Portuguesa|0|0|0|0|0|0||Vasco Seabra|38|mestre tatico#|4-4-2/|39|Pedro|41|ATACANTE|3
+Pedro|25|GR|56|3
+João|23|DEFESA|67|3
+Miguel|26|DEFESA|78|3
+Coates|36|DEFESA|89|3
+Tiago|24|DEFESA|87|3
+Pedro|21|MEDIO|68|3
+André|25|MEDIO|76|3
+Ricardo|26|MEDIO|78|3
+Nil|22|ATACANTE|89|3
+Beny|25|ATACANTE|90|3
+Zizo|23|ATACANTE|92|3

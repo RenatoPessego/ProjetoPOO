@@ -1,0 +1,13 @@
+
+Chaves|Portuguesa|0|0|0|0|0|0||Moreno|45|nutricao#|4-4-2/|12|Filipe|46|ATACANTE|12
+João|23|GR|45|12
+Nil|22|DEFESA|78|12
+Vitória|26|DEFESA|89|12
+Diogo|27|DEFESA|75|12
+Beny|25|MEDIO|65|12
+Pedro|21|MEDIO|98|12
+Ricardo|26|MEDIO|70|12
+Tiago|24|MEDIO|85|12
+Zizo|23|MEDIO|74|12
+Pedro|25|ATACANTE|87|12
+Ofori Niang|24|ATACANTE|79|12

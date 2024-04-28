@@ -1,0 +1,13 @@
+
+Braga|Portuguesa|0|0|0|0|0|0||António|48|nutricao#|4-4-2/|78|Santos|41|GR|73
+Tiago|24|GR|68|78
+Fonte|22|DEFESA|76|87|86
+Miguel|26|DEFESA|82|75
+Rafa|21|DEFESA|80|84
+João|23|DEFESA|67|78
+Abas|23|MEDIO|89|93
+Ricardo|26|MEDIO|92|91
+Teles|24|MEDIO|86|81
+André|25|MEDIO|90|84
+Pedro|25|ATACANTE|92|79
+Diogo|27|ATACANTE|83|86
